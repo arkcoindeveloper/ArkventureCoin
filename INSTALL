@@ -1,0 +1,9 @@
+Building ArkVentureCoin
+
+See doc/readme-qt.rst for instructions on building ArkVentureCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ArkVentureCoin.
+
+See doc/build-*.txt for instructions on building ArkVentureCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ArkVentureCoin.
